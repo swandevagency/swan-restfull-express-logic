@@ -1,0 +1,22 @@
+{
+  "name": "swan-restfull-express-logic",
+  "version": "1.0.0",
+  "description": "all rights belong to swan-agency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swandevagency/swan-restfull-express-logic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swandevagency/swan-restfull-express-logic/issues"
+  },
+  "homepage": "https://github.com/swandevagency/swan-restfull-express-logic#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
