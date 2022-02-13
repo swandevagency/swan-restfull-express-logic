@@ -1,6 +1,6 @@
 {
   "name": "swan-restfull-express-logic",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "all rights belong to swan-agency",
   "main": "index.js",
   "scripts": {
